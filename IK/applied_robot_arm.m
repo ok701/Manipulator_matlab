@@ -1,7 +1,9 @@
+% this is FINAL ver. of 2DOF planer mainpultor IK solution
+
 %% 기본 setup
 clear
 clc
-%%
+
 % step마다 걸리는 시간
 step_1_time = 0.7;
 step_2_time = 1.5;
